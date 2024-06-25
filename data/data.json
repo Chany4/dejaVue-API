@@ -55,12 +55,44 @@
     ],
     "friends":[
         {
-            "id":"",
-            "firstName":"",
-            "lastName":"",
-            "gender":"",
-            "profile":"",
-            "contactDetails":""
+            "id":"1",
+            "firstName":"Chloe",
+            "lastName":"Almazien",
+            "gender":"Female",
+            "profile":"single",
+            "contactDetails":"060 632 6162"
+        },
+        {
+            "id":"2",
+            "lastName":"Hendricks",
+            "gender":"Male",
+            "profile":"Single",
+            "firstName":"Keegan",
+            "contactDetails":"081 421 4195"
+        },
+        {
+            "id":"3",
+            "firstName":"Marcus",
+            "lastName":"Adonis",
+            "gender":"Male",
+            "profile":"single",
+            "contactDetails":"082 929 5821"
+        },
+        {
+            "id":"4",
+            "firstName":"Gwiba",
+            "lastName":"Mabandla",
+            "gender":"male",
+            "profile":"married",
+            "contactDetails":"071 122 8132"
+        },
+        {
+            "id":"5",
+            "firstName":"Oyintanda",
+            "lastName":"Unknown",
+            "gender":"Male",
+            "profile":"Married",
+            "contactDetails":"076 480 1680"
         }
     ]
 }
